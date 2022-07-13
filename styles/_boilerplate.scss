@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+html,
+body {
+  overflow-x: hidden;
+}
+section {
+  max-width: 1440px;
+  margin-inline: auto;
+}

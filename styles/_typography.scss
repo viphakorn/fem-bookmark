@@ -1,0 +1,32 @@
+:root {
+  --fs-400: 0.875rem;
+  --fs-700: 1.5rem;
+  --fs-900: 2rem;
+  // --fz-sm: 0.875rem;
+  // --fz-normal: 1rem;
+  // --fz-md: 1.5rem;
+  // --fz-lg: 2rem;
+
+  --fw-400: 400;
+  --fw-500: 500;
+}
+
+body {
+  font-size: 1.125rem;
+  font-family: "Rubik", sans-serif;
+}
+
+@media (min-width: 48em) {
+  :root {
+    --fs-400: 1rem;
+    --fs-700: 1.75rem;
+    --fs-900: 2.25rem;
+  }
+}
+@media (min-width: 80rem) {
+  :root {
+    --fs-400: 1.125rem;
+    --fs-700: 2.25rem;
+    --fs-900: 3rem;
+  }
+}
