@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/bookmark-landing-page-aQb3jOkdq0)
-- Live Site URL: [Github](https://viphakorn.github.io/bookmark-landing-page-master/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/bookmark-landing-page-aQb3jOkdq0)
+- Live Site URL: [Github Pages](https://viphakorn.github.io/fem-bookmark/)
 
 ## My process
 
